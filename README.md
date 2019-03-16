@@ -4,7 +4,7 @@
 
 ------
 
-This is a release of an Augmented dataset we produced on top of [Stanford Question Answering Dataset (SQuAD) 2.0[(https://rajpurkar.github.io/SQuAD-explorer/).
+This is a release of an Augmented dataset we produced on top of [Stanford Question Answering Dataset (SQuAD) 2.0](https://rajpurkar.github.io/SQuAD-explorer/).
 
 The repository is called SQuAD 2.Q since only the *questions* out of the SQuAD 2.0 dataset have been augmented using the process of [Back Translation](http://ankit-ai.blogspot.com/2019/03/future-of-natural-language-processing.html). The work can easily be extended to Context paragraphs using the python script (augment.py).
 
