@@ -1,6 +1,8 @@
 # SQuAD 2.Q - Augmented-Dataset
 #### Developers - Ankit Chadha (ankitrc@stanford.edu) and Rewa Sood (rrsood@stanford.edu)
-======
+
+
+------
 
 This is a release of an Augmented dataset we produced on top of [Stanford Question Answering Dataset (SQuAD) 2.0[(https://rajpurkar.github.io/SQuAD-explorer/).
 
