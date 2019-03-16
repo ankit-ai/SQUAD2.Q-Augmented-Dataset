@@ -18,6 +18,8 @@ SQuAD 2.0 is a dataset where the context come from Wikipedia paragraphs and the 
 ## How does SQuAD 2.Q help?
 We present our model called BertQA : Attention on Steroids where SQuAD 2.Q50 helped the same model achieve 2 point F1 improvement over SQuAD 2.0.
 
+![BertQA](https://github.com/ankit-ai/SQUAD2.Q-Augmented-Dataset/blob/master/img/bert.png "BertQA for SQuAD 2.Q - Attention on Steroids")
+
 ------
 ## Release notes:
 1. SQuAD 2Q (100% Augmented - for every question in the dataset there is an augmented question)
