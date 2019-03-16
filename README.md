@@ -30,4 +30,6 @@ We present our model called BertQA : Attention on Steroids where SQuAD 2.Q50 hel
 ```
 python augment.py
 ```
-
+------
+## Back Translation:
+![Backtranslation](https://4.bp.blogspot.com/--sRxCag7jdk/XIsDaTeTNjI/AAAAAAAAGzE/hF13dvMBR5I4btKSpAPzbE3iuivQcVl8gCLcBGAs/s320/Screen%2BShot%2B2019-03-14%2Bat%2B4.57.45%2BPM.png "Backtranslation process used for SQuAD 2.Q")
