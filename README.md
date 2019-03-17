@@ -9,6 +9,10 @@ This is a release of an Augmented dataset we produced on top of [Stanford Questi
 The repository is called SQuAD 2.Q since only the *questions* out of the SQuAD 2.0 dataset have been augmented using the process of [Back Translation](http://ankit-ai.blogspot.com/2019/03/future-of-natural-language-processing.html). The work can easily be extended to Context paragraphs using the python script (augment.py).
 
 ------
+
+<img src="https://github.com/ankit-ai/SQUAD2.Q-Augmented-Dataset/blob/master/img/poster.png">
+
+------
 ## Why just Questions?
 SQuAD 2.0 is a dataset where the context come from Wikipedia paragraphs and the questions are written by Cloud workers. When questions are written by cloud workers it inherently adds syntatic variance and grammar usage of human cloud workers. The idea here is to help the network generalize to the syntatic variance in the question to generalize better at:
 1. Understanding Questions
