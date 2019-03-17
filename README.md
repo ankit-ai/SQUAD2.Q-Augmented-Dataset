@@ -14,6 +14,7 @@ SQuAD 2.0 is a dataset where the context come from Wikipedia paragraphs and the 
 1. Understanding Questions
 2. Understanding interactions between Question and Context (Attention)
 
+<img src="https://github.com/ankit-ai/SQUAD2.Q-Augmented-Dataset/blob/master/img/backtrans.png">
 ------
 ## How does SQuAD 2.Q help?
 We present our model called BertQA : Attention on Steroids where SQuAD 2.Q50 helped the same model achieve 2 point F1 improvement over SQuAD 2.0.
